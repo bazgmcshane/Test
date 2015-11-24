@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Build 002
-=======
-Build 001
->>>>>>> refs/remotes/origin/feature1
+Build 003
